@@ -1,0 +1,1 @@
+﻿global using AhmadProject.Domain.Common.Contracts;

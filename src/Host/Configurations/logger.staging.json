@@ -1,0 +1,7 @@
+{
+  "LoggerSettings": {
+    "AppName": "AhmadProject",
+    "WriteToFile": false,
+    "StructuredConsoleLogging": true
+  }
+}

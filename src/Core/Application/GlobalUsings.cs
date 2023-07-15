@@ -1,0 +1,17 @@
+global using Ardalis.Specification;
+global using FluentValidation;
+global using AhmadProject.Application.Common.Events;
+global using AhmadProject.Application.Common.Exceptions;
+global using AhmadProject.Application.Common.FileStorage;
+global using AhmadProject.Application.Common.Interfaces;
+global using AhmadProject.Application.Common.Models;
+global using AhmadProject.Application.Common.Persistence;
+global using AhmadProject.Application.Common.Specification;
+global using AhmadProject.Application.Common.Validation;
+global using AhmadProject.Domain.Catalog;
+global using AhmadProject.Domain.Common;
+global using AhmadProject.Domain.Common.Contracts;
+global using AhmadProject.Shared.Notifications;
+global using MediatR;
+global using Microsoft.Extensions.Localization;
+global using Microsoft.Extensions.Logging;
